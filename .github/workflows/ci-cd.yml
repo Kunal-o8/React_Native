@@ -24,8 +24,7 @@ jobs:
 
       - name: Build Web release
         run: |
-          npm install -g expo-cli
-          npx expo-cli export:web
+          npx expo build:web
         working-directory: ./Day-5/meetups
 
       - name: Test
