@@ -1,0 +1,287 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Event 1",
+      "description": "Description of Event 1",
+      "image": "https://picsum.photos/700",
+      "location": {
+        "name": "Location 1",
+        "address": "Address 1",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      "dates": ["2022-12-01T00:00:00.000Z"],
+      "members": ["e1Member 1", "e1Member 2"]
+    },
+    {
+      "id": "2",
+      "title": "Event 2",
+      "description": "Description of Event 2",
+      "image": "https://picsum.photos/700",
+      "location": {
+        "name": "Location 2",
+        "address": "Address 2",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      "dates": ["2022-12-01T00:00:00.000Z"],
+      "members": ["e2Member 1", "e2Member 2"]
+    },
+    {
+      "id": "3",
+      "title": "Event 3",
+      "description": "Description of Event 3",
+      "image": "https://picsum.photos/700",
+      "location": {
+        "name": "Location 3",
+        "address": "Address 3",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      "dates": ["2022-12-01T00:00:00.000Z"],
+      "members": ["e3Member 1", "e3Member 2"]
+    },
+    {
+      "id": "4",
+      "title": "Event 4",
+      "description": "Description of Event 4",
+      "image": "https://picsum.photos/700",
+      "location": {
+        "name": "Location 4",
+        "address": "Address 4",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      "dates": ["2022-12-01T00:00:00.000Z"],
+      "members": ["e4Member 1", "e4Member 2"]
+    },
+    {
+      "id": "5",
+      "title": "Event 5",
+      "description": "Description of Event 5",
+      "image": "https://picsum.photos/700",
+      "location": {
+        "name": "Location 5",
+        "address": "Address 5",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      "dates": ["2022-12-01T00:00:00.000Z"],
+      "members": ["e5Member 1", "e5Member 2"]
+    },
+    {
+      "id": "6",
+      "title": "Event 6",
+      "description": "Description of Event 6",
+      "image": "https://picsum.photos/700",
+      "location": {
+        "name": "Location 6",
+        "address": "Address 6",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      "dates": ["2022-12-01T00:00:00.000Z"],
+      "members": ["e6Member 1", "e6Member 2"]
+    },
+    {
+      "id": "7",
+      "title": "Event 7",
+      "description": "Description of Event 7",
+      "image": "https://picsum.photos/700",
+      "location": {
+        "name": "Location 7",
+        "address": "Address 7",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      "dates": ["2022-12-01T00:00:00.000Z"],
+      "members": ["e7Member 1", "e7Member 2"]
+    },
+    {
+      "id": "8",
+      "title": "Event 8",
+      "description": "Description of Event 8",
+      "image": "https://picsum.photos/700",
+      "location": {
+        "name": "Location 8",
+        "address": "Address 8",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      "dates": ["2022-12-01T00:00:00.000Z"],
+      "members": ["e8Member 1", "e8Member 2"]
+    },
+    {
+      "id": "9",
+      "title": "Event 9",
+      "description": "Description of Event 9",
+      "image": "https://picsum.photos/700",
+      "location": {
+        "name": "Location 9",
+        "address": "Address 9",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      "dates": ["2022-12-01T00:00:00.000Z"],
+      "members": ["e9Member 1", "e9Member 2"]
+    },
+    {
+      "id": "10",
+      "title": "Event 10",
+      "description": "Description of Event 10",
+      "image": "https://picsum.photos/700",
+      "location": {
+        "name": "Location 10",
+        "address": "Address 10",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      "dates": ["2022-12-01T00:00:00.000Z"],
+      "members": ["e10Member 1", "e10Member 2"]
+    },
+    {
+      "id": "11",
+      "title": "Event 11",
+      "description": "Description of Event 11",
+      "image": "https://picsum.photos/700",
+      "location": {
+        "name": "Location 11",
+        "address": "Address 11",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      "dates": ["2022-12-01T00:00:00.000Z"],
+      "members": ["e11Member 1", "e11Member 2"]
+    },
+    {
+      "id": "12",
+      "title": "Event 12",
+      "description": "Description of Event 12",
+      "image": "https://picsum.photos/700",
+      "location": {
+        "name": "Location 12",
+        "address": "Address 12",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      "dates": ["2022-12-01T00:00:00.000Z"],
+      "members": ["e12Member 1", "e12Member 2"]
+    },
+    {
+      "id": "13",
+      "title": "Event 13",
+      "description": "Description of Event 13",
+      "image": "https://picsum.photos/700",
+      "location": {
+        "name": "Location 13",
+        "address": "Address 13",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      "dates": ["2022-12-01T00:00:00.000Z"],
+      "members": ["e13Member 1", "e13Member 2"]
+    },
+    {
+      "id": "14",
+      "title": "Event 14",
+      "description": "Description of Event 14",
+      "image": "https://picsum.photos/700",
+      "location": {
+        "name": "Location 14",
+        "address": "Address 14",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      "dates": ["2022-12-01T00:00:00.000Z"],
+      "members": ["e14Member 1", "e14Member 2"]
+    },
+    {
+      "id": "15",
+      "title": "Event 15",
+      "description": "Description of Event 15",
+      "image": "https://picsum.photos/700",
+      "location": {
+        "name": "Location 15",
+        "address": "Address 15",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      "dates": ["2022-12-01T00:00:00.000Z"],
+      "members": ["e15Member 1", "e15Member 2"]
+    },
+    {
+      "id": "16",
+      "title": "Event 16",
+      "description": "Description of Event 16",
+      "image": "https://picsum.photos/700",
+      "location": {
+        "name": "Location 16",
+        "address": "Address 16",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      "dates": ["2022-12-01T00:00:00.000Z"],
+      "members": ["e16Member 1", "e16Member 2"]
+    },
+    {
+      "id": "17",
+      "title": "Event 17",
+      "description": "Description of Event 17",
+      "image": "https://picsum.photos/700",
+      "location": {
+        "name": "Location 17",
+        "address": "Address 17",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      "dates": ["2022-12-01T00:00:00.000Z"],
+      "members": ["e17Member 1", "e17Member 2"]
+    },
+    {
+      "id": "18",
+      "title": "Event 18",
+      "description": "Description of Event 18",
+      "image": "https://picsum.photos/700",
+      "location": {
+        "name": "Location 18",
+        "address": "Address 18",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      "dates": ["2022-12-01T00:00:00.000Z"],
+      "members": ["e18Member 1", "e18Member 2"]
+    },
+    {
+      "id": "19",
+      "title": "Event 19",
+      "description": "Description of Event 19",
+      "image": "https://picsum.photos/700",
+      "location": {
+        "name": "Location 19",
+        "address": "Address 19",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      "dates": ["2022-12-01T00:00:00.000Z"],
+      "members": ["e19Member 1", "e19Member 2"]
+    },
+    {
+      "id": "20",
+      "title": "Event 20",
+      "description": "Description of Event 20",
+      "image": "https://picsum.photos/700",
+      "location": {
+        "name": "Location 20",
+        "address": "Address 20",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      "dates": ["2022-12-01T00:00:00.000Z"],
+      "members": ["e20Member 1", "e20Member 2"]
+    }
+  ],
+  "login": {
+    "loggedIn": true
+  }
+}
